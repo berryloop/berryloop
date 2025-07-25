@@ -20,10 +20,10 @@ In October, I'll start a part-time **Master's in Computer Science** alongside my
 - Coffee enthusiast with a soft spot for chocolate
 - Anime fan & tech nerd
 
-> “Any fool can write code that a computer can understand. Good programmers write code that humans can understand.”
+> **“Any fool can write code that a computer can understand. Good programmers write code that humans can understand.”**
 — Martin Fowler
 
-Feel free to check out my projects or reach out via LinkedIn!  
+Feel free to check out my projects or reach out via LinkedIn! 📬
 
 <!-- Optional: GitHub Stats (can be removed or customized) -->
 <!--
