@@ -4,8 +4,8 @@ I'm Jona — a tech-savvy generalist wanting to dive deeper into **software engi
 In October, I'll start a part-time **Master's in Computer Science** alongside my corporate job.
 
 ## 🛠️ Tech Stack & Tools
-- **Languages & others**: Python, VBA, Power Platform, KNIME, BluePrism  
-- **Tools**: Git, GitHub/GitLab, Excel (yes, still)  
+- **Languages & Dev Platforms**: Python, VBA, Power Platform, KNIME, BluePrism  
+- **Tools**: Git, GitHub/GitLab, Excel (still not a database)  
 - **Currently Learning**: Testing, CI/CD, Software Architecture  
 
 ## 🌱 What I'm into right now
@@ -17,7 +17,7 @@ In October, I'll start a part-time **Master's in Computer Science** alongside my
 - A mix of **personal learning projects** and the ocassional **curious side quest**  
 
 ## ☕ About Me
-- Coffee enthusiast with a soft spot for good design
+- Coffee enthusiast with a soft spot for chocolate
 - Anime fan & tech nerd
 
 > “Any fool can write code that a computer can understand. Good programmers write code that humans can understand.”
