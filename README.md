@@ -1,4 +1,4 @@
-# Hey there, I'm berryloop 👋
+# Hey there, I'm berryloop 👋🍓🫐
 
 I'm Jona — soon-to-be CS Master's student and currently working in a technical role at a large company.  
 Right now, I'm transitioning deeper into the world of software engineering: architecture, automation & testing.
