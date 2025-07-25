@@ -1,27 +1,31 @@
-# Hey there, I'm berryloop 👋🍓🫐
+# Hey there, I'm berryloop 👋🍓☕
 
-I'm Jona — soon-to-be CS Master's student and currently working in a technical role at a large company.  
-Right now, I'm transitioning deeper into the world of software engineering: architecture, automation & testing.
+I'm Jona — a tech-savvy generalist wanting to dive deeper into **software engineering** & development practices.
+In October, I'll start a part-time **Master's in Computer Science** alongside my corporate job.
 
 ## 🛠️ Tech Stack & Tools
-- **Languages & Logic**: Python, VBA, Power Platform, KNIME, BluePrism  
-- **Dev Basics**: Git, GitHub/GitLab, Excel (yes, still)  
+- **Languages & others**: Python, VBA, Power Platform, KNIME, BluePrism  
+- **Tools**: Git, GitHub/GitLab, Excel (yes, still)  
 - **Currently Learning**: Testing, CI/CD, Software Architecture  
 
-## 🎯 Current Focus
+## 🌱 What I'm into right now
 - Building a solid dev foundation while studying & working  
-- Creating tools that automate, simplify, and scale internal processes  
-- Learning by doing (and breaking things occasionally)  
+- Creating small tools someone actually uses  
+- Learning by doing (and breaking things occasionally)
+
+## 📂 What you'll find here  
+- A mix of **personal learning projects** and the ocassional **curious side quest**  
 
 ## ☕ About Me
 - Coffee enthusiast with a soft spot for good design
-- Anime fan & tech aesthetic nerd    
-- Always experimenting — sometimes it even works
+- Anime fan & tech nerd
 
-> “Code is like coffee – better when fresh, clean, and slightly over-engineered.”  
+> “Any fool can write code that a computer can understand. Good programmers write code that humans can understand.”
+— Martin Fowler
+
+Feel free to check out my projects or reach out via LinkedIn!  
 
 <!-- Optional: GitHub Stats (can be removed or customized) -->
 <!--
 ![berryloop's GitHub stats](https://github-readme-stats.vercel.app/api?username=berryloop&show_icons=true&theme=default&hide_title=true)
 -->
-
